@@ -23,10 +23,10 @@ Each problem folder contains the solution script plus its input and output files
 
 ## Running
 
-Each solution reads from an input file in its own folder and writes the output file alongside it:
+Each script reads its own input file (the filename is hardcoded in the script) and writes its output file alongside it:
 
 ```
 python "A. Double Squares.py"
 ```
 
-Run from inside the problem folder. Output is written to `<problem>_output.txt`.
+Run from inside the problem folder. For example, `A. Double Squares.py` reads `double_squares_input.txt` and writes `double_squares_output.txt`.

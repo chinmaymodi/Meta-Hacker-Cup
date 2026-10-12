@@ -1,6 +1,6 @@
 # A. Double Squares
 
-Count the number of ways to represent N as a sum of two squares (order and sign ignored).
+Count the number of ways to represent N as a sum of two non-negative squares (order ignored).
 
 ## Approach
 
@@ -12,7 +12,7 @@ O(sqrt(N)) per unique query, O(1) per repeated query.
 
 ## Time
 
-~0.2 seconds (measured by the script's own timer over the full input file).
+~0.2 seconds.
 
 Solved: 12 October 2026.
 
