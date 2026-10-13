@@ -11,6 +11,7 @@ The repo is organized by year, then round, then problem:
   Qualification Round/
     A. Double Squares/
     B. Peg Game/
+    C. Studious Student/
 ```
 
 Each problem folder contains the solution script plus its input and output files. Every folder has a README describing the problem and approach.
@@ -19,7 +20,7 @@ Each problem folder contains the solution script plus its input and output files
 
 | Year | Round | Problems |
 |------|-------|----------|
-| 2011 | Qualification Round | 2 |
+| 2011 | Qualification Round | 3 |
 
 ## Running
 
