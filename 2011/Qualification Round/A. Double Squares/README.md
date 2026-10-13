@@ -20,4 +20,4 @@ Solved: 12 October 2026.
 
 - `math.isqrt` avoids floating-point precision issues when checking perfect squares.
 - Breaking when `a > b` halves the search space and prevents double-counting.
-- The initial approach was to precompute the entire set of squares that could sum to 2^31, but that would have been roughly 2 billion computations. The per-query O(sqrt(N)) approach with memoization turned out to be the better choice — the input dataset did not demand the precompute, and per-query work with caching was both simpler and faster in practice.
+- The initial approach was to precompute the entire set of squares that could sum to 2^31, but that would have been roughly 2 billion computations. The per-query O(sqrt(N)) approach with memoization turned out to be the better choice - the input dataset did not demand the precompute, and per-query work with caching was both simpler and faster in practice.
