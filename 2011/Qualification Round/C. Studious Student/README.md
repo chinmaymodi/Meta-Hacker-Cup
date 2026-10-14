@@ -1,3 +1,5 @@
+[Meta-Hacker-Cup](../../../) / [2011](../../) / [Qualification Round](../) / C. Studious Student
+
 # C. Studious Student
 
 Given a set of words, concatenate them in some order to produce the lexicographically lowest possible string.

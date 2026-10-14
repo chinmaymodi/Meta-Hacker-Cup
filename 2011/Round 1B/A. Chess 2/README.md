@@ -1,3 +1,5 @@
+[Meta-Hacker-Cup](../../../) / [2011](../../) / [Round 1B](../) / A. Chess 2
+
 # A. Chess 2
 
 Count the number of threatened pieces on a 16x16 Chess 2 board. A piece is threatened if another piece can move into its cell and take it. The board includes standard pieces (King, Queen, Rook, Bishop, Knight) plus Chess 2 additions: Nightrider (S), Archbishop (A), and Kraken (E). The Kraken can move to any square on the board regardless of obstacles, but does not threaten itself.

@@ -1,3 +1,5 @@
+[Meta-Hacker-Cup](../../../) / [2011](../../) / [Qualification Round](../) / A. Double Squares
+
 # A. Double Squares
 
 Count the number of ways to represent N as a sum of two non-negative squares (order ignored).

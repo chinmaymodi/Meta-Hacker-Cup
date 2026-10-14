@@ -1,3 +1,5 @@
+[Meta-Hacker-Cup](../../../) / [2011](../../) / [Qualification Round](../) / B. Peg Game
+
 # B. Peg Game
 
 A ball is dropped into one of the holes at the top of a peg board. Each time it hits a peg it bounces left or right with equal probability; if the peg is missing it falls straight through; at the walls it bounces back. The win hole is at column K in the bottom row. Find which top hole gives the highest probability of the ball landing in the win hole, and output that probability.
