@@ -7,5 +7,6 @@
 | Problem | Time | Solved | Link |
 |---------|------|--------|------|
 | A. Chess 2 | ~0.02s | 14 October 2026 | [Open](A.%20Chess%202/) |
+| B. Diminishing Circle | ~0.72s | 16 October 2026 | [Open](B.%20Diminishing%20Circle/) |
 | C. Slot Machine Hacker | ~0.1s | 15 October 2026 | [Open](C.%20Slot%20Machine%20Hacker/) |
-| **Total** | **~0.12s** | | |
+| **Total** | **~0.84s** | | |

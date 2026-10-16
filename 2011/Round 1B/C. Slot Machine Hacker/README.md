@@ -6,7 +6,7 @@ Given a sequence of observations from a slot machine that uses a linear function
 
 ## Approach
 
-For each test case, find all possible raw secret values that could produce the first observation, then iteratively filter candidates using subsequent observations. The first step iterates over all values in `[0, 10000001)` where `s % 1000 == firstObs` (about 10,000 candidates). For each subsequent observation, apply the linear function to every candidate and keep only those whose next output matches the observation. Once the candidate set shrinks to exactly 1, predict the next 10 values by running the function forward. If the set becomes empty, the sequence is impossible. If observations run out and the set still has multiple candidates, there are not enough observations.
+For each test case, find all possible raw secret values that could produce the second observation, given the first observation, then iteratively filter candidates using subsequent observations. The first step iterates over all values in `[0, 10000001)` where `s % 1000 == firstObs` (about 10,000 candidates). For each subsequent observation, apply the linear function to every candidate and keep only those whose next output matches the observation. Once the candidate set shrinks to exactly 1, predict the next 10 values by running the function forward. If the set becomes empty, the sequence is impossible. If observations run out and the set still has multiple candidates, there are not enough observations.
 
 ## Complexity
 
