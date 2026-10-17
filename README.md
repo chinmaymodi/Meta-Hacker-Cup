@@ -2,7 +2,7 @@
 
 My solutions to Meta Hacker Cup (formerly Facebook Hacker Cup) problems, written in Python 3.
 
-**7 problems solved**
+**8 problems solved**
 
 ## Structure
 
@@ -14,6 +14,7 @@ The repo is organized by year, then round, then problem:
     - [B. Peg Game](2011/Qualification%20Round/B.%20Peg%20Game/)
     - [C. Studious Student](2011/Qualification%20Round/C.%20Studious%20Student/)
   - [Round 1A](2011/Round%201A/)
+    - [B. Turn on the Lights](2011/Round%201A/B.%20Turn%20on%20the%20Lights/)
     - [C. Wine Tasting](2011/Round%201A/C.%20Wine%20Tasting/)
   - [Round 1B](2011/Round%201B/)
     - [A. Chess 2](2011/Round%201B/A.%20Chess%202/)
@@ -27,7 +28,7 @@ Each problem folder contains the solution script plus its input and output files
 | Year | Round | Problems |
 |------|-------|----------|
 | 2011 | Qualification Round | 3 |
-| 2011 | Round 1A | 1 |
+| 2011 | Round 1A | 2 |
 | 2011 | Round 1B | 3 |
 
 ## Running
