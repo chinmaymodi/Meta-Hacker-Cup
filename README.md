@@ -2,7 +2,7 @@
 
 My solutions to Meta Hacker Cup (formerly Facebook Hacker Cup) problems, written in Python 3.
 
-**10 problems solved**
+**11 problems solved**
 
 ## Structure
 
@@ -26,6 +26,8 @@ The repo is organized by year, then round, then problem:
 - [2025](2025/)
   - [Practice Round](2025/Practice%20Round/)
     - [A. Warm Up](2025/Practice%20Round/A.%20Warm%20Up/)
+  - [Round 1](2025/Round%201/)
+    - [A1. Snake Scales (Chapter 1)](2025/Round%201/A1.%20Snake%20Scales%20%28Chapter%201%29/)
 
 Each problem folder contains the solution script plus its input and output files. Every folder has a README describing the problem and approach.
 
@@ -38,6 +40,7 @@ Each problem folder contains the solution script plus its input and output files
 | 2011 | Round 1B | 3 |
 | 2012 | Qualification Round | 1 |
 | 2025 | Practice Round | 1 |
+| 2025 | Round 1 | 1 |
 
 ## Running
 
