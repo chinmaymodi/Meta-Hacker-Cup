@@ -6,5 +6,5 @@
 
 | Round | Total Time | Link |
 |-------|-----------|------|
-| Qualification Round | ~0.02s | [Open](Qualification%20Round/) |
-| **Total** | **~0.02s** | |
+| Qualification Round | ~0.005s | [Open](Qualification%20Round/) |
+| **Total** | **~0.005s** | |

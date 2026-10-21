@@ -14,7 +14,7 @@ O(N) per test case.
 
 ## Time
 
-~0.002 seconds.
+~0.001 seconds.
 
 Solved: 21 October 2026.
 

@@ -14,7 +14,7 @@ O(L) per test case for a sentence of L characters.
 
 ## Time
 
-~0.02 seconds.
+~0.005 seconds.
 
 Solved: 19 October 2026.
 

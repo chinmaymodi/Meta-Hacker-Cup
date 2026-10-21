@@ -14,7 +14,7 @@ O(n) per test case when n < k, O(k log n) when n >= k. The stack-based approach 
 
 ## Time
 
-~0.72 seconds.
+~0.9 seconds.
 
 Solved: 16 October 2026.
 

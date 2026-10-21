@@ -22,7 +22,7 @@ O(R * C) per test case, plus one chase per candidate top row.
 
 ## Time
 
-~0.01 seconds.
+~0.011 seconds.
 
 Solved: 18 October 2026.
 

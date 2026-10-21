@@ -27,7 +27,7 @@ O(G^2) precomputation for G <= 100 (~5000 cells), then O(G) per test case to sum
 
 ## Time
 
-~0.01 seconds.
+~0.008 seconds.
 
 Solved: 17 October 2026.
 

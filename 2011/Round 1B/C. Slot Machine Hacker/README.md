@@ -14,7 +14,7 @@ O(K * N) per test case, where K is the number of candidate secrets (~10,000 for 
 
 ## Time
 
-~0.1 seconds.
+~0.106 seconds.
 
 Solved: 15 October 2026.
 

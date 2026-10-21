@@ -10,7 +10,7 @@ A dish can only be warmed, never cooled, so a case is impossible when some targe
 
 Otherwise, process target temperatures in ascending order. Bucket each dish that needs to move by its target temperature and keep one witness dish for each starting temperature. For a target `t`, the first dish that needs `t` is warmed by the witness at `t`, and every later dish that needs `t` is warmed by the dish moved immediately before it, which is now at `t`. The operations for one target therefore form a chain that starts at the witness.
 
-Ascending order is what makes the chain safe: a dish at temperature `t` can only move when its own target, which is at least `t`, is processed, so it is still at `t` while target `t` is handled.
+Processing targets in ascending order keeps the chain safe: a dish at temperature `t` can only move when its own target, which is at least `t`, is processed, so it is still at `t` while target `t` is handled.
 
 ## Complexity
 
