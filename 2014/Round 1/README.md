@@ -2,6 +2,8 @@
 
 # Round 1
 
+**Progress:** 1/4 problems solved.
+
 ## Problems
 
 | Problem | Time | Solved | Link |

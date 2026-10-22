@@ -2,6 +2,8 @@
 
 # Qualification Round
 
+**Progress:** 1/3 problems solved.
+
 ## Problems
 
 | Problem | Time | Solved | Link |

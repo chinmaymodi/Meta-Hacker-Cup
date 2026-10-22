@@ -2,53 +2,30 @@
 
 My solutions to Meta Hacker Cup (formerly Facebook Hacker Cup) problems, written in Python 3.
 
-**14 problems solved**
+**15 problems solved**
 
 ## Structure
 
-The repo is organized by year, then round, then problem:
+The repo is organized by year, then round, then problem. For example, the most recently solved problem:
 
-- [2011](2011/)
-  - [Qualification Round](2011/Qualification%20Round/)
-    - [A. Double Squares](2011/Qualification%20Round/A.%20Double%20Squares/)
-    - [B. Peg Game](2011/Qualification%20Round/B.%20Peg%20Game/)
-    - [C. Studious Student](2011/Qualification%20Round/C.%20Studious%20Student/)
-  - [Round 1A](2011/Round%201A/)
-    - [B. Turn on the Lights](2011/Round%201A/B.%20Turn%20on%20the%20Lights/)
-    - [C. Wine Tasting](2011/Round%201A/C.%20Wine%20Tasting/)
-  - [Round 1B](2011/Round%201B/)
-    - [A. Chess 2](2011/Round%201B/A.%20Chess%202/)
-    - [B. Diminishing Circle](2011/Round%201B/B.%20Diminishing%20Circle/)
-    - [C. Slot Machine Hacker](2011/Round%201B/C.%20Slot%20Machine%20Hacker/)
-- [2012](2012/)
-  - [Qualification Round](2012/Qualification%20Round/)
-    - [A. Alphabet Soup](2012/Qualification%20Round/A.%20Alphabet%20Soup/)
 - [2014](2014/)
   - [Qualification Round](2014/Qualification%20Round/)
-    - [A. Square Detector](2014/Qualification%20Round/A.%20Square%20Detector/)
-    - [B. Basketball Game](2014/Qualification%20Round/B.%20Basketball%20Game/)
-  - [Round 1](2014/Round%201/)
-    - [A. Labelmaker](2014/Round%201/A.%20Labelmaker/)
-- [2025](2025/)
-  - [Practice Round](2025/Practice%20Round/)
-    - [A. Warm Up](2025/Practice%20Round/A.%20Warm%20Up/)
-  - [Round 1](2025/Round%201/)
-    - [A1. Snake Scales (Chapter 1)](2025/Round%201/A1.%20Snake%20Scales%20%28Chapter%201%29/)
+    - [C. Tennison](2014/Qualification%20Round/C.%20Tennison/)
 
 Each problem folder contains the solution script plus its input and output files. Every folder has a README describing the problem and approach.
 
 ## Progress
 
-| Year | Round | Problems |
-|------|-------|----------|
-| 2011 | Qualification Round | 3 |
-| 2011 | Round 1A | 2 |
-| 2011 | Round 1B | 3 |
-| 2012 | Qualification Round | 1 |
-| 2014 | Qualification Round | 2 |
-| 2014 | Round 1 | 1 |
-| 2025 | Practice Round | 1 |
-| 2025 | Round 1 | 1 |
+| Year | Round | Solved |
+|------|-------|--------|
+| [2011](2011/) | [Qualification Round](2011/Qualification%20Round/) | 3/3 |
+| [2011](2011/) | [Round 1A](2011/Round%201A/) | 2/3 |
+| [2011](2011/) | [Round 1B](2011/Round%201B/) | 3/3 |
+| [2012](2012/) | [Qualification Round](2012/Qualification%20Round/) | 1/3 |
+| [2014](2014/) | [Qualification Round](2014/Qualification%20Round/) | 3/3 |
+| [2014](2014/) | [Round 1](2014/Round%201/) | 1/4 |
+| [2025](2025/) | [Practice Round](2025/Practice%20Round/) | 1/5 |
+| [2025](2025/) | [Round 1](2025/Round%201/) | 1/6 |
 
 ## Running
 

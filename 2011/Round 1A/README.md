@@ -2,6 +2,8 @@
 
 # Round 1A
 
+**Progress:** 2/3 problems solved.
+
 ## Problems
 
 | Problem | Time | Solved | Link |

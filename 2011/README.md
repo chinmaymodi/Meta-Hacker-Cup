@@ -4,9 +4,9 @@
 
 ## Rounds
 
-| Round | Total Time | Link |
-|-------|-----------|------|
-| Qualification Round | ~0.501s | [Open](Qualification%20Round/) |
-| Round 1A | ~0.019s | [Open](Round%201A/) |
-| Round 1B | ~1.026s | [Open](Round%201B/) |
-| **Total** | **~1.546s** | |
+| Round | Total Time | Progress | Link |
+|-------|-----------|----------|------|
+| Qualification Round | ~0.501s | 3/3 | [Open](Qualification%20Round/) |
+| Round 1A | ~0.019s | 2/3 | [Open](Round%201A/) |
+| Round 1B | ~1.026s | 3/3 | [Open](Round%201B/) |
+| **Total** | **~1.546s** | **8/9** | |
