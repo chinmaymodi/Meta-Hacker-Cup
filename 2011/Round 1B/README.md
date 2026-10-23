@@ -6,9 +6,9 @@
 
 ## Problems
 
-| Problem | Time | Solved | Link |
-|---------|------|--------|------|
-| A. Chess 2 | ~0.02s | 14 October 2026 | [Open](A.%20Chess%202/) |
-| B. Diminishing Circle | ~0.9s | 16 October 2026 | [Open](B.%20Diminishing%20Circle/) |
-| C. Slot Machine Hacker | ~0.106s | 15 October 2026 | [Open](C.%20Slot%20Machine%20Hacker/) |
-| **Total** | **~1.026s** | | |
+| Problem | Time | Solved |
+|---------|------|--------|
+| [A. Chess 2](A.%20Chess%202/) | ~0.02s | 14 October 2026 |
+| [B. Diminishing Circle](B.%20Diminishing%20Circle/) | ~0.9s | 16 October 2026 |
+| [C. Slot Machine Hacker](C.%20Slot%20Machine%20Hacker/) | ~0.106s | 15 October 2026 |
+| **Total** | **~1.026s** | |

@@ -6,7 +6,7 @@
 
 ## Problems
 
-| Problem | Time | Solved | Link |
-|---------|------|--------|------|
-| A. Labelmaker | ~0.001s | 22 October 2026 | [Open](A.%20Labelmaker/) |
-| **Total** | **~0.001s** | | |
+| Problem | Time | Solved |
+|---------|------|--------|
+| [A. Labelmaker](A.%20Labelmaker/) | ~0.001s | 22 October 2026 |
+| **Total** | **~0.001s** | |

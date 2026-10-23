@@ -6,7 +6,7 @@
 
 ## Problems
 
-| Problem | Time | Solved | Link |
-|---------|------|--------|------|
-| A. Warm Up | ~1.8s | 20 October 2026 | [Open](A.%20Warm%20Up/) |
-| **Total** | **~1.8s** | | |
+| Problem | Time | Solved |
+|---------|------|--------|
+| [A. Warm Up](A.%20Warm%20Up/) | ~1.8s | 20 October 2026 |
+| **Total** | **~1.8s** | |

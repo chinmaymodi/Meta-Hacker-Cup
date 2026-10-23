@@ -4,8 +4,8 @@
 
 ## Rounds
 
-| Round | Total Time | Progress | Link |
-|-------|-----------|----------|------|
-| Qualification Round | ~6.011s | 3/3 | [Open](Qualification%20Round/) |
-| Round 1 | ~0.001s | 1/4 | [Open](Round%201/) |
-| **Total** | **~6.012s** | **4/7** | |
+| Round | Total Time | Progress |
+|-------|-----------|----------|
+| [Qualification Round](Qualification%20Round/) | ~6.011s | 3/3 |
+| [Round 1](Round%201/) | ~0.001s | 1/4 |
+| **Total** | **~6.012s** | **4/7** |

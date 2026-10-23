@@ -6,9 +6,9 @@
 
 ## Problems
 
-| Problem | Time | Solved | Link |
-|---------|------|--------|------|
-| A. Square Detector | ~0.003s | 21 October 2026 | [Open](A.%20Square%20Detector/) |
-| B. Basketball Game | ~0.008s | 21 October 2026 | [Open](B.%20Basketball%20Game/) |
-| C. Tennison | ~6s | 22 October 2026 | [Open](C.%20Tennison/) |
-| **Total** | **~6.011s** | | |
+| Problem | Time | Solved |
+|---------|------|--------|
+| [A. Square Detector](A.%20Square%20Detector/) | ~0.003s | 21 October 2026 |
+| [B. Basketball Game](B.%20Basketball%20Game/) | ~0.008s | 21 October 2026 |
+| [C. Tennison](C.%20Tennison/) | ~6s | 22 October 2026 |
+| **Total** | **~6.011s** | |
