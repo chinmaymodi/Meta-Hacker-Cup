@@ -31,10 +31,9 @@ def backtracking(remaining_p, remaining_c, remaining_f, index):
     if remaining_p < 0 or remaining_c < 0 or remaining_f < 0:
         return 'no'
     
-    # Try eating
     if backtracking(remaining_p - pcf_arr[index][0], remaining_c - pcf_arr[index][1], remaining_f - pcf_arr[index][2], index + 1) == 'yes':
         return 'yes'
-    # Try not eating
+
     return backtracking(remaining_p, remaining_c, remaining_f, index + 1)
 
 @cache
