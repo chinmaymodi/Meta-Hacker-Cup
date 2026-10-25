@@ -8,5 +8,5 @@
 
 | Problem | Time | Solved |
 |---------|------|--------|
-| B. New Year's Resolution | ~0.008s | 24 October 2026 |
+| [B. New Year's Resolution](B.%20New%20Year's%20Resolution/) | ~0.008s | 24 October 2026 |
 | **Total** | **~0.008s** | |
