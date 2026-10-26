@@ -7,7 +7,6 @@ ans = []
 
 with (open(file, 'r') as f):
     t = int(f.readline())
-    print('Total test cases:', t)
     for i in range(t):
         n = int(f.readline())
 
