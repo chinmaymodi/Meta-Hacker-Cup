@@ -2,7 +2,7 @@
  
 My solutions to Meta Hacker Cup (formerly Facebook Hacker Cup) problems, written in Python 3.
  
-**20 problems solved**
+**21 problems solved**
  
 ## Structure
  
@@ -10,7 +10,7 @@ The repo is organized by year, then round, then problem. For example, the most r
  
 - [2018](2018/)
   - [Qualification Round](2018/Qualification%20Round/)
-    - [A. Tourist](2018/Qualification%20Round/A.%20Tourist/)
+    - [B. Interception](2018/Qualification%20Round/B.%20Interception/)
  
 Each problem folder contains the solution script plus its input and output files. Every folder has a README describing the problem and approach.
  
@@ -24,9 +24,9 @@ Each problem folder contains the solution script plus its input and output files
 | [2014](2014/) | ~6.012s | 4 |
 | [2015](2015/) | ~0.008s | 1 |
 | [2016](2016/) | ~84.034s | 2 |
-| [2018](2018/) | ~0.003s | 1 |
+| [2018](2018/) | ~0.006s | 2 |
 | [2025](2025/) | ~1.801s | 2 |
-| **Total** | **~93.412s** | **20** |
+| **Total** | **~93.415s** | **21** |
  
 ## Running
  
