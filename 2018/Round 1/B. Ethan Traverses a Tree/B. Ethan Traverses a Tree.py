@@ -1,8 +1,6 @@
 import time
 start = time.time()
 
-from itertools import islice
-
 file = "ethan_traverses_a_tree_input.txt"
 
 ans = []
