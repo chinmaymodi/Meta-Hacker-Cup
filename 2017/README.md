@@ -6,5 +6,5 @@
 
 | Round | Total Time | Progress |
 |-------|-----------|----------|
-| [Qualification Round](Qualification%20Round/) | ~0.020s | 1/1 |
-| **Total** | **~0.020s** | **1/1** |
+| [Qualification Round](Qualification%20Round/) | ~0.076s | 2/2 |
+| **Total** | **~0.076s** | **2/2** |
