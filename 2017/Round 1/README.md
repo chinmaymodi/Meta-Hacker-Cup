@@ -2,11 +2,12 @@
 
 # Round 1
 
-**Progress:** 1/4 problems solved.
+**Progress:** 2/4 problems solved.
 
 ## Problems
 
 | Problem | Time | Solved |
 |---------|------|--------|
 | [A. Pie Progress](A.%20Pie%20Progress/) | ~0.205s | 3 November 2026 |
-| **Total** | **~0.205s** | |
+| [B. Fighting the Zombies](B.%20Fighting%20the%20Zombies/) | ~0.054s | 4 November 2026 |
+| **Total** | **~0.259s** | |
