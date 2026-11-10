@@ -8,5 +8,5 @@
 
 | Problem | Time | Solved |
 |---------|------|--------|
-| [A. Boomerang Constellations](A.%20Boomerang%20Constellations/) | ~78.239s | 25 October 2026 |
-| **Total** | **~78.239s** | |
+| [A. Boomerang Constellations](A.%20Boomerang%20Constellations/) | ~45.278s | 25 October 2026 |
+| **Total** | **~45.278s** | |

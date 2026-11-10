@@ -14,7 +14,7 @@ O(N^2) time and space per test case.
 
 ## Time
 
-~78.239 seconds.
+~45.278 seconds.
 
 Solved: 25 October 2026.
 
@@ -26,3 +26,4 @@ Solved: 25 October 2026.
 - Integer-indexed coordinate arrays with cached locals got it to ~78.239 seconds.
 - Squared distances avoid floats entirely.
 - Only the count per distance matters, not which stars are at that distance.
+- Moving the hot loop into a function, with no change to the logic, took it from ~78.239 seconds to ~45.278 seconds, about 1.7x. Python reads and writes variables much faster inside a function than at file level, and this loop does little else.

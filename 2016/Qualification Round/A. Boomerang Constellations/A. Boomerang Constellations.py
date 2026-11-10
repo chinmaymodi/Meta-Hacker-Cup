@@ -3,6 +3,34 @@ start = time.time()
 
 file = "boomerang_constellations_input.txt"
 
+
+def solve_case(n, xs, ys):
+    stars = [{} for _ in range(n)]
+
+    for j in range(n):
+        xj = xs[j]
+        yj = ys[j]
+        dj = stars[j]
+
+        for k in range(j + 1, n):
+            dx = xj - xs[k]
+            dy = yj - ys[k]
+            dist = dx * dx + dy * dy
+
+            dj[dist] = dj.get(dist, 0) + 1
+
+            dk = stars[k]
+            dk[dist] = dk.get(dist, 0) + 1
+
+    a = 0
+
+    for distances in stars:
+        for d in distances.values():
+            a += d * (d - 1) // 2
+
+    return a
+
+
 ans = []
 
 with (open(file, 'r') as f):
@@ -16,30 +44,7 @@ with (open(file, 'r') as f):
         for j in range(n):
             xs[j], ys[j] = map(int, f.readline().split())
 
-        stars = [{} for _ in range(n)]
-
-        for j in range(n):
-            xj = xs[j]
-            yj = ys[j]
-            dj = stars[j]
-
-            for k in range(j + 1, n):
-                dx = xj - xs[k]
-                dy = yj - ys[k]
-                dist = dx * dx + dy * dy
-
-                dj[dist] = dj.get(dist, 0) + 1
-
-                dk = stars[k]
-                dk[dist] = dk.get(dist, 0) + 1
-
-        a = 0
-
-        for distances in stars:
-            for d in distances.values():
-                a += d * (d - 1) // 2
-
-        ans.append(str(a))
+        ans.append(str(solve_case(n, xs, ys)))
 
 outputfile = "boomerang_constellations_output.txt"
 with open(outputfile, 'w') as f:

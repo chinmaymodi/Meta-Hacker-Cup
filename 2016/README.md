@@ -6,6 +6,6 @@
 
 | Round | Total Time | Progress |
 |-------|-----------|----------|
-| [Qualification Round](Qualification%20Round/) | ~78.239s | 1/4 |
+| [Qualification Round](Qualification%20Round/) | ~45.278s | 1/4 |
 | [Round 1](Round%201/) | ~5.795s | 1/4 |
-| **Total** | **~84.034s** | **2/8** |
+| **Total** | **~51.073s** | **2/8** |
