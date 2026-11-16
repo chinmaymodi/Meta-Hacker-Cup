@@ -2,11 +2,12 @@
 
 # Round 1C
 
-**Progress:** 1/3 problems solved.
+**Progress:** 2/3 problems solved.
 
 ## Problems
 
 | Problem | Time | Solved |
 |---------|------|--------|
+| [B. Polynomial Factoring](B.%20Polynomial%20Factoring/) | ~0.003s | 17 November 2026 |
 | [C. Risky Slide](C.%20Risky%20Slide/) | ~0.047s | 16 November 2026 |
-| **Total** | **~0.047s** | |
+| **Total** | **~0.050s** | |
