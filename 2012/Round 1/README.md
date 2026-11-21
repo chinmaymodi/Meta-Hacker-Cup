@@ -2,11 +2,12 @@
 
 # Round 1
 
-**Progress:** 1/3 problems solved.
+**Progress:** 2/3 problems solved.
 
 ## Problems
 
 | Problem | Time | Solved |
 |---------|------|--------|
 | [A. Checkpoint](A.%20Checkpoint/) | ~0.019s | 20 November 2026 |
-| **Total** | **~0.019s** | |
+| [C. Squished Status](C.%20Squished%20Status/) | ~0.006s | 21 November 2026 |
+| **Total** | **~0.025s** | |
